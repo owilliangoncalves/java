@@ -1,4 +1,4 @@
-package Classes;
+package Exercicios.Classes.BancoDeContas;
 
 public class ContaEspecial extends ContaBancaria {
     private double limite;

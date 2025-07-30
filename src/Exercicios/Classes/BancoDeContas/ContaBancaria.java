@@ -1,4 +1,4 @@
-package Classes;
+package Exercicios.Classes.BancoDeContas;
 
 import java.util.ArrayList;
 import java.util.List;
