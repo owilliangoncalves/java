@@ -10,3 +10,6 @@ Depois, crie uma **subclasse** `ContaEspecial` que:
 **Herda** de `ContaBancaria`.
 Permite saque acima do saldo, até o limite.
 Implemente `main()` e teste criando duas contas. Faça saques, depósitos e tente ultrapassar o limite.
+
+### Description of challenge 1:
+Crie um sistema de cadastro de produtos
